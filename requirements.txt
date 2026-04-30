@@ -1,0 +1,5 @@
+telethon
+aiohttp
+aiofiles
+croniter
+httpx
