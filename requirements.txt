@@ -3,3 +3,4 @@ aiohttp
 aiofiles
 croniter
 httpx
+fake-useragent
