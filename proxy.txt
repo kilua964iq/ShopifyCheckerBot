@@ -1,0 +1,5 @@
+socks5://iEN2jEvl:5TqD95Nm664K@proxy.taquito.pp.ua:10080
+http://iEN2jEvl:5TqD95Nm664K@proxy.taquito.pp.ua:8080
+ca-mon.pvdata.host:8080:g2rTXpNfPdcw2fzGtWKp62yH:nizar1elad2
+px950403.pointtoserver.com:10780:purevpn0s11832445:w5j6dhr5
+95.135.134.14:20946:EES0fz7f:QHW8qwpS
